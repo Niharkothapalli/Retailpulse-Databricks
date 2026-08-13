@@ -98,8 +98,8 @@ ________________________________________
 ## Sample Silver Dataset – customers.csv
 CSV
 customer_id,name,email,city,loyalty_tier
-CUST01,Rahul,rahul@gmail.com,Chennai,GOLD
-CUST02,Anita,anita@gmail.com,Bangalore,SILVER
+CUST01,Nihar,niharkothapalli@gmail.com,Bangalore,GOLD
+CUST02,Vishnu,vishnu@gmail.com,Chennai,SILVER
 Show more lines
 ________________________________________
 #### 6.3 SCD Type 2 Dimension Requirements
@@ -158,6 +158,7 @@ Mandatory Controls
 •	Role based access
 •	Lineage tracking
 Catalog Structure
+
 retail_prod
  ├── bronze
  ├── silver
