@@ -1,4 +1,4 @@
-Retail Data Platform – Requirements Document
+#Retail Data Platform – Requirements Document
 Platform: Databricks (Delta Lake, Unity Catalog, PySpark)
 Industry: Retail (Omnichannel)
 Architecture: Medallion (Bronze → Silver → Gold)
