@@ -3,7 +3,7 @@ Platform: Databricks (Delta Lake, Unity Catalog, PySpark)
 Industry: Retail (Omnichannel)
 Architecture: Medallion (Bronze → Silver → Gold)
 ________________________________________
-###1. Purpose of the Document
+### 1. Purpose of the Document
 This document defines the business, functional, technical, data, and non functional requirements for building a scalable, governed, and real time retail analytics platform using Databricks and Delta Lake, enabling:
 •	Historical and real time retail analytics
 •	Customer, product, and inventory insights
@@ -11,7 +11,7 @@ This document defines the business, functional, technical, data, and non functio
 •	Support for BI, ML, and advanced analytics
  
 ________________________________________
-###2. Business Objectives
+## 2. Business Objectives
 Primary Objectives
 •	Provide single source of truth for retail data
 •	Enable real time and batch analytics
