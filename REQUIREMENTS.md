@@ -154,7 +154,7 @@ ________________________________________
 ### 8. Unity Catalog & Governance Requirements
 Mandatory Controls
 •	Centralized metadata
-•	Column level PII masking
+•	Column  level PII masking
 •	Role based access
 •	Lineage tracking
 Catalog Structure
