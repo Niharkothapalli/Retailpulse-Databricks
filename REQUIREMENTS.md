@@ -52,7 +52,7 @@ BRONZE – Raw, Immutable
 SILVER – Cleansed, Conformed
 GOLD   – Business Aggregates & Dimensions
 Platform Constraints
-•	Databricks Runtime with Photon enabled
+•	Databricks  Runtime with Photon enabled
 •	Delta Lake as the only storage format
 •	Unity Catalog mandatory for governance
 ________________________________________
